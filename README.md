@@ -27,4 +27,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lopamudra2000&show_icons=true&locale=en" alt="lopamudra2000" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lopamudra2000&" alt="lopamudra2000" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lopamudra2000&" alt="lopamudra2000" /></p>-->
