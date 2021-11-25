@@ -26,6 +26,6 @@
 <p display="flex" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopamudra2000&theme=chalk&row=2&column=4" alt="lopamudra2000" /></a> </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lopamudra2000&show_icons=true&locale=en" alt="lopamudra2000" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lopamudra2000&show_icons=true&locale=en" alt="lopamudra2000" /></p> -->
 
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lopamudra2000&" alt="lopamudra2000" /></p>-->
