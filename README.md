@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lopamudra Giri</h1>
-<h3 align="center">Passionate frontend developer|| AI-ML enthusiast</h3>
+<h3 align="center">Passionate frontend developer</h3>
 
 
 - 🌱 I’m currently learning **NodeJS, Express, MongoDB**
